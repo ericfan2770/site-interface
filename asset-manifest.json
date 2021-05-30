@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vaccine-passport/static/css/main.462a28ce.chunk.css",
-    "main.js": "/vaccine-passport/static/js/main.758516f1.chunk.js",
-    "main.js.map": "/vaccine-passport/static/js/main.758516f1.chunk.js.map",
+    "main.js": "/vaccine-passport/static/js/main.a16e4885.chunk.js",
+    "main.js.map": "/vaccine-passport/static/js/main.a16e4885.chunk.js.map",
     "runtime-main.js": "/vaccine-passport/static/js/runtime-main.4ee7919f.js",
     "runtime-main.js.map": "/vaccine-passport/static/js/runtime-main.4ee7919f.js.map",
     "static/js/2.32a3c2e2.chunk.js": "/vaccine-passport/static/js/2.32a3c2e2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4ee7919f.js",
     "static/js/2.32a3c2e2.chunk.js",
     "static/css/main.462a28ce.chunk.css",
-    "static/js/main.758516f1.chunk.js"
+    "static/js/main.a16e4885.chunk.js"
   ]
 }
