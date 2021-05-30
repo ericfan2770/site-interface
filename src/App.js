@@ -80,7 +80,7 @@ function App() {
                 {isAuthenticated ? (
                     <>
                       <Nav.Link onClick={handleLogout}>Logout</Nav.Link>
-                      <LinkContainer to="/">
+                      <LinkContainer to="/vaccine-passport">
                         <Nav.Link>Home</Nav.Link>
                       </LinkContainer>
                       <LinkContainer to="/vaccine-passport/readPassport">
