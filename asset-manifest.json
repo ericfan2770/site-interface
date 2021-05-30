@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/site-interface/static/css/main.462a28ce.chunk.css",
-    "main.js": "/site-interface/static/js/main.743d49df.chunk.js",
-    "main.js.map": "/site-interface/static/js/main.743d49df.chunk.js.map",
-    "runtime-main.js": "/site-interface/static/js/runtime-main.1f377c76.js",
-    "runtime-main.js.map": "/site-interface/static/js/runtime-main.1f377c76.js.map",
-    "static/js/2.48732dc6.chunk.js": "/site-interface/static/js/2.48732dc6.chunk.js",
-    "static/js/2.48732dc6.chunk.js.map": "/site-interface/static/js/2.48732dc6.chunk.js.map",
-    "static/js/3.5b7dd20c.chunk.js": "/site-interface/static/js/3.5b7dd20c.chunk.js",
-    "static/js/3.5b7dd20c.chunk.js.map": "/site-interface/static/js/3.5b7dd20c.chunk.js.map",
-    "index.html": "/site-interface/index.html",
-    "static/css/main.462a28ce.chunk.css.map": "/site-interface/static/css/main.462a28ce.chunk.css.map",
-    "static/js/2.48732dc6.chunk.js.LICENSE.txt": "/site-interface/static/js/2.48732dc6.chunk.js.LICENSE.txt"
+    "main.css": "/vaccine-passport/static/css/main.462a28ce.chunk.css",
+    "main.js": "/vaccine-passport/static/js/main.d62347e6.chunk.js",
+    "main.js.map": "/vaccine-passport/static/js/main.d62347e6.chunk.js.map",
+    "runtime-main.js": "/vaccine-passport/static/js/runtime-main.4ee7919f.js",
+    "runtime-main.js.map": "/vaccine-passport/static/js/runtime-main.4ee7919f.js.map",
+    "static/js/2.32a3c2e2.chunk.js": "/vaccine-passport/static/js/2.32a3c2e2.chunk.js",
+    "static/js/2.32a3c2e2.chunk.js.map": "/vaccine-passport/static/js/2.32a3c2e2.chunk.js.map",
+    "static/js/3.f38e0dd4.chunk.js": "/vaccine-passport/static/js/3.f38e0dd4.chunk.js",
+    "static/js/3.f38e0dd4.chunk.js.map": "/vaccine-passport/static/js/3.f38e0dd4.chunk.js.map",
+    "index.html": "/vaccine-passport/index.html",
+    "static/css/main.462a28ce.chunk.css.map": "/vaccine-passport/static/css/main.462a28ce.chunk.css.map",
+    "static/js/2.32a3c2e2.chunk.js.LICENSE.txt": "/vaccine-passport/static/js/2.32a3c2e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f377c76.js",
-    "static/js/2.48732dc6.chunk.js",
+    "static/js/runtime-main.4ee7919f.js",
+    "static/js/2.32a3c2e2.chunk.js",
     "static/css/main.462a28ce.chunk.css",
-    "static/js/main.743d49df.chunk.js"
+    "static/js/main.d62347e6.chunk.js"
   ]
 }
