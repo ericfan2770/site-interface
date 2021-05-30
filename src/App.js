@@ -58,7 +58,7 @@ function App() {
     /* redirects us back to the login page once the user logs out */
     async function handleLogout() {
       userHasAuthenticated(false);
-      history.push("/login");
+      history.push("/vaccine-passport/login");
     }
 
   const loggedInUserType = sessionStorage.getItem("userType");
