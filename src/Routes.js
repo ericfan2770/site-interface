@@ -11,7 +11,7 @@ export default function Routes() {
   return (
     <Switch>
       /* homepage */
-      <Route exact path="/site">
+      <Route exact path="/vaccine-passport">
         <Homepage />
       </Route>
       /* login page */
