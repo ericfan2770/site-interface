@@ -6,7 +6,7 @@ export default function Home() {
     <div className="Home">
       <div className="lander">
         <h1>Vaccine Passport Portal</h1>
-        <p className="text-muted"> Login to view your own passport or search to find others </p>
+        <p className="text-muted">Search for others' passports or log in to view your own passport.</p>
       </div>
     </div>
   );

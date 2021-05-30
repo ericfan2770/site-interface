@@ -15,19 +15,19 @@ export default function Routes() {
         <Homepage />
       </Route>
       /* login page */
-      <Route exact path="/login">
+      <Route exact path="vaccine-passport/login">
         <Login />
       </Route>
       /* create page */
-      <Route exact path="/createPassport">
+      <Route exact path="vaccine-passport/createPassport">
         <Create />
       </Route>
       /* search page */
-      <Route exact path="/readPassport">
+      <Route exact path="vaccine-passport/readPassport">
         <Read />
       </Route>
       /* update page */
-      <Route exact path="/updatePassport">
+      <Route exact path="vaccine-passport/updatePassport">
         <Update />
       </Route>
       {/* Finally, catch all unmatched routes */}
