@@ -83,13 +83,13 @@ function App() {
                       <LinkContainer to="/">
                         <Nav.Link>Home</Nav.Link>
                       </LinkContainer>
-                      <LinkContainer to="/readPassport">
+                      <LinkContainer to="/vaccine-passport/readPassport">
                         <Nav.Link>Search</Nav.Link>
                       </LinkContainer>
                     </>
                 ) : (
                   <>
-                    <LinkContainer to="/login">
+                    <LinkContainer to="/vaccine-passport/login">
                       <Nav.Link>Login</Nav.Link>
                     </LinkContainer>
                   </>
@@ -121,22 +121,22 @@ function App() {
                 {isAuthenticated ? (
                     <>
                       <Nav.Link onClick={handleLogout}>Logout</Nav.Link>
-                      <LinkContainer to="/">
+                      <LinkContainer to="/vaccine-passport">
                         <Nav.Link>Home</Nav.Link>
                       </LinkContainer>
-                      <LinkContainer to="/readPassport">
+                      <LinkContainer to="/vaccine-passport/readPassport">
                         <Nav.Link>Search</Nav.Link>
                       </LinkContainer>
-                        <LinkContainer to="/createPassport">
+                        <LinkContainer to="/vaccine-passport/createPassport">
                       <Nav.Link>Create Passport</Nav.Link>
                         </LinkContainer>
-                      <LinkContainer to="/updatePassport">
+                      <LinkContainer to="/vaccine-passport/updatePassport">
                         <Nav.Link>Update Passport</Nav.Link>
                       </LinkContainer>
                     </>
                 ) : (
                   <>
-                    <LinkContainer to="/login">
+                    <LinkContainer to="/vaccine-passport/login">
                       <Nav.Link>Login</Nav.Link>
                     </LinkContainer>
                   </>
@@ -166,10 +166,10 @@ function App() {
             <Navbar.Collapse className="justify-content-end">
               <Nav activeKey={window.location.pathname}>        
                   <>
-                    <LinkContainer to="/login">
+                    <LinkContainer to="/vaccine-passport/login">
                       <Nav.Link>Login</Nav.Link>
                     </LinkContainer>
-                    <LinkContainer to="/readPassport">
+                    <LinkContainer to="/vaccine-passport/readPassport">
                       <Nav.Link>Search</Nav.Link>
                     </LinkContainer>
                   </>
