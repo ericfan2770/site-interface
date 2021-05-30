@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ericfan2770.github.io/site-interface",
-  "name": "site-interface",
+  "homepage": "https://ericfan2770.github.io/vaccine-passport",
+  "name": "vaccine-passport",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
